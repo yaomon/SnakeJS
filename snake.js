@@ -269,7 +269,7 @@
             var newWidth = Math.floor(document.getElementById("width").value);
             var newHeight = Math.floor(document.getElementById("height").value);
             
-            if (newWidth >= 4 && newWidth <= 22 && newHeight >= 4 && newHeight <= 22) {            
+            if (newWidth >= 4 && newWidth <= 20 && newHeight >= 4 && newHeight <= 20) {            
                 width = newWidth;
                 height = newHeight;
                 speed = 225 - document.getElementById("speed").value; 

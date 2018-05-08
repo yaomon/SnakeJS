@@ -78,10 +78,10 @@ body {
     border-color: rgb(120, 120, 120); 
     border-style: solid;
     top: 20%;
-    left: 5%;
-    height: 500px;
-    width: 15%;
-    padding: 2%;
+    left: 2%;
+    height: 55vh;
+    width: 11vw;
+    padding: 1%;
     background: linear-gradient(rgb(174, 170, 170), rgb(190, 194, 190));
 }
 
@@ -96,15 +96,15 @@ input::-webkit-inner-spin-button {
 }
 
 .label, #rule {
-    font-size: 24px;
+    font-size: 1vw;
     font-family: sans-serif;
     font-weight: bold;    
     color: rgb(60, 60, 60); 
 }
 
 .label {
-    margin-top: 10%;
-    font-size: 30px;
+    margin-top: 2vh;
+    font-size: 2vw;
 }
 
 .tfield {
@@ -112,12 +112,12 @@ input::-webkit-inner-spin-button {
     color :  rgb(70, 70, 70); 
     background-color: rgb(220, 220, 220);  
     border-radius: 4px;
-    font-size: 40px;
+    font-size: 3vw;
     font-family: sans-serif;
     font-weight: bolder;
     width: 70%;
     text-align: center;
-    margin: 4%;
+    margin: 1vh;
 }
 
 .butt {
@@ -129,10 +129,10 @@ input::-webkit-inner-spin-button {
     -webkit-transition-duration: 0.1s; 
     transition-duration: 0.1s;
     cursor: pointer;
-    font-size: 28px;
+    font-size: 1.5vw;
     border-radius: 7px;
     border: 0px;
-    padding: 8px;
+    padding: 1vh;
     margin-left: 2%;
     margin-right: 2%;    
 }
